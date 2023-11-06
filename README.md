@@ -1,45 +1,19 @@
-# CS2_External
-CS2 external cheat.
+# External Overlay with Dx9-ImGui
+This repo is an old project with a transparent Win32 Window, inside the Win32 is rendered a:
+- Login ImGui Window
+- Cheat ImGui Window
+  - To open the menu after login, press insert key
 
-## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
+REMINDER: 
+**There is no function inside the Cheat Menu.**
 
-## Derivative projects
-1. AimStar -> [AimStar](https://github.com/CowNowK/AimStarCS2) (By CowNowK.)
-2. Aeonix -> [Aeonix](https://github.com/Fr0go1/Aeonix-Cs2) (By Fr0go1.)
-3. vyvanse.cc -> [vyvanse.cc](https://github.com/9xN/vyvanse.cc) (By 9xN.)
+## Credits :scroll:
+1. [ocornut/ImGui](https://github.com/ocornut/imgui)
+2. [KleskBY/DirectX9ImGuiDesktopApp](https://github.com/KleskBY/DirectX9ImGuiDesktopApp)
 
-## NOTICE
+## Contact :email:
+- **Second Discord**: neegav (ikwy)
+
+## NOTICE :information_source:
 
 This source just used to study how to code a simple CS2 external hack systematically.
-
-这个源码仅供学习如何系统的写一套CS2外部辅助程序。
-
-<img src="https://github.com/TKazer/CS2_External/blob/master/Image2.png" width="1200" />
-
-## Functions
-
-> 1. BoneESP
->
-> 2. BoxESP
->
-> 3. AimBot (With rcs)
->
-> 4. EyeLine
->
-> 5. Auto update offsets
->
-> 6. weaponESP
->
-> 7. Radar
->
-> 8. TriggerBot
->
-> 9. HeadShoot Line
->
-> 10. Fov Line
->
-> 11. Visibility Check
->
-> 12. OBS Bypass
->
-> 13. Bhop
