@@ -14,6 +14,6 @@ REMINDER:
 ## Contact :email:
 - **Second Discord**: neegav (ikwy)
 
-## NOTICE :information_source:
+## Notice :information_source:
 
 This source just used to study how to code a simple CS2 external hack systematically.
