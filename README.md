@@ -4,6 +4,8 @@ This repo is an old project with a transparent Win32 Window, inside the Win32 is
 - Cheat ImGui Window
   - To open the menu after login, press insert key
 
+For myself i like when the directory is cleaned up, thats why it looks like that.
+
 REMINDER: 
 **There is no function inside the Cheat Menu.**
 
